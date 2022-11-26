@@ -1,4 +1,4 @@
-# Klasifikasi kanker payudara
+# Klasifikasi Kanker Payudara
 
 ## Domain Proyek
 Kanker adalah salah satu penyebab kematian paling menonjol di seluruh dunia, terhitung lebih dari 1 juta kematian dalam setahun terakhir dari mana 22,6% kematian disebabkan oleh kanker payudara berdasarkan jurnal [*Breast Cancer Detection Using Machine Learning Techniques*](https://www.researchgate.net/publication/361024112_Breast_Cancer_Detection_Using_Machine_Learning_Techniques). Kanker payudara biasanya disebabkan oleh berbagai faktor klinis, gaya hidup, sosial, dan ekonomi. Mendeteksi kanker payudara tersebut ganas atau jinak sejak dini sangat perlu dilakukan agar mendapatkan tindakan medis yang tepat. *Machine learning* berpotensi memprediksi kanker payudara berdasarkan fitur yang tersembunyi dalam data.
